@@ -1,8 +1,8 @@
 # Practica Git
 ### Integrantes
-Sergio Alejandro Rodriguez Lopez  202131443
+Sergio Alejandro Rodriguez Lopez - 202131443
 
-Jorge Anibal Bravo Rodriguez  202131782
+Jorge Anibal Bravo Rodriguez - 202131782
 ### Juegos
 Esta practica consiste en la elaboracion de tres juegos para la terminal, los cuales son: 
 - Ahorcado
