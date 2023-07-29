@@ -1,2 +1,3 @@
 #Ignorar binario .jar 
 *.jar
+/target/
