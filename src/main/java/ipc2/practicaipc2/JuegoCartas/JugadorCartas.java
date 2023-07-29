@@ -17,7 +17,7 @@ public class JugadorCartas extends Jugador {
     }
     
     public void setDinero(int dinero){
-        Dinero = dinero;
+        Dinero += dinero;
     }
     
     public int getDinero(){

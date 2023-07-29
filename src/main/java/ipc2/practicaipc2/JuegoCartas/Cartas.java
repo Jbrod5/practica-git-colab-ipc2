@@ -14,6 +14,9 @@ public class Cartas {
     public String Signo;
     public int Valor;
     public String[] listaSignos = new String[13];
+
+    public Cartas() {
+    }
     
     public void setSigno(){
         listaSignos[0] = "A";

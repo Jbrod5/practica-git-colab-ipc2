@@ -5,6 +5,8 @@
 
 package ipc2.practicagitipc2;
 
+import ipc2.practicaipc2.JuegoCartas.JugarCartas;
+
 /**
  *
  * @author Usuario
@@ -12,6 +14,7 @@ package ipc2.practicagitipc2;
 public class PracticaIPC2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        JugarCartas Juego1 = new JugarCartas();
+        Juego1.IniciarJuego();
     }
 }
