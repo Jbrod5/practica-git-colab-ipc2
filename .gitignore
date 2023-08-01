@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-/target/
-=======
 #Ignorar binario .jar 
 *.jar
->>>>>>> 7f8513d3ec627e86937c8b89bd8c755f47c43bf4
+/target/
